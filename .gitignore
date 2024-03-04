@@ -2,6 +2,8 @@
 __pycache__/
 *.py[cod]
 *$py.class
+temp.py
+wordlist_proxies.txt
 
 # C extensions
 *.so
